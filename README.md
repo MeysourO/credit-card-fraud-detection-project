@@ -13,7 +13,7 @@ Used:
 	* Data visualization
 	* Jupyter Notebook
 	* Tableau
-	* Machine Learning ( Logistic Regression)
+	* Machine Learning (Logistic Regression)
   
   ## Data Preparation
 
