@@ -1,4 +1,4 @@
-# credit-card-fraud-detection-project
+# Credit-Card-Fraud-Detection-Project
 **Meysour Omezzine**  
 **IronHack, Paris 21 Mar 2023**
 
