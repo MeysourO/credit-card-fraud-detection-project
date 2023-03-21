@@ -50,7 +50,7 @@ Used:
 - Changing Year and Day to Date
 - Changing Time to Time period
 - Changing Merchant City to Merchant Type : Online or In-person
-- Dropping  with NaN values in columns Errors? and Merchant State
+- Dealing with NaN values in columns Errors? and Merchant State
 - Creating plots for each column to check where most fraudulent transactions occured.
 
 ### Data Storage
