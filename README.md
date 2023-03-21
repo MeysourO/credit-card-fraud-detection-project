@@ -25,7 +25,7 @@ Used:
 * 19963 rows 
 * columns:
 * 
-| Initial Column | Decision | New Column |
+| Initial Column | Comments | New Column |
 | --- | --- | --- |
 | User | User is just an index not an ID | None : Dropped |
 | Card | No further infos about this column | Card |
