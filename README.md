@@ -19,7 +19,7 @@ Used:
 
 ### Overview: 
 * Data is about Credit card transactions.
-	* [https://www.kaggle.com/datasets/ealtman2019/credit-card-transactions]
+	* [dataset](https://www.kaggle.com/datasets/ealtman2019/credit-card-transactions)
   
 * 15 columns 
 * 19963 rows 
