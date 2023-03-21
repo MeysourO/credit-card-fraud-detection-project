@@ -4,7 +4,7 @@
 
 ## Overview
 
-* How we can an credit card transaction be predicted as fraud? 
+* How we can Banks/Credit card companies predict fraudulent credit card transactions?  
 
 Used:
 
