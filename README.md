@@ -24,34 +24,35 @@ Used:
 * 15 columns 
 * 19963 rows 
 * columns:
+* 
+| Initial Column | Decision | New Column |
+| --- | --- | --- |
+| User | User is just an index not an ID | None : Dropped |
+| Card | No further infos about this column | Card |
+| Year | Added to Date column | Date |
+| Month | Nothing to edit | Month |
+| Day | Added to Date column | Date |
+| Time | Binned to 4 categories and added to Time Period | Time & Time Period |
+| Amount | Binned to 3 categories | Amount & Amount Range |
+| Use chip | Nothing to edit | Use Chip |
+| Merchant name | Too many unique values. | None:Dropped |
+| Merchant City | Changing Merchant City to Merchant Type : Online or In-person | Merchant Type |
+| Merchant State | Binned to 4 main catgories | Merchant_State_grouped |
+| Zip | Too many unique values, gives same indication as Merchant City | None: Dropped |
+| MCC | Changing MCC to MCC Category: Check for each MCC number Category name and group same categories fields together | MCC_Category |
+| Errors? | Binned | Errors? |
+| Is Fraud? | Main target | Is Fraud? |
 
-- User, 
-- Card,  
-- Year,  
-- Month, 
-- Day, 
-- Time,
-- Amount, 
-- Use chip,
-- Merchant Name,
-- Merchant city,
-- Merchant State,
-- Zip,
-- MCC,
-- Errors?,
-- Is Fraud?.
  
 	### Data Wrangling and Cleaning
   
 - Overall Data description
 - Deleting  columns with hight unique values: User,Merchant Name,Zip 
 - Looking for outliers column by column 
-- Changing MCC to MCC Category: Check for each MCC number Category name and then group same categories fields together
-- Changing Year and Day to Date
-- Changing Time to Time period
-- Changing Merchant City to Merchant Type : Online or In-person
-- Dealing with NaN values in columns Errors? and Merchant State
-- Creating plots for each column to check where most fraudulent transactions occured.
+- Dealing with Nan Values for each column
+- Creating plots for each column to check where most fraudulent transactions occured
+- Checking for correlation with target feature
+
 
 ### Data Storage
 
@@ -76,4 +77,5 @@ Used Tableau to visualize my overall data.
 
 - Based on our Recall rate, our model can alert us on fraud transactions where transactions are actually frauds, how ever based on the confusion matrix it predicted some false positives. 
 - Our model had an accuracy of 89%. 
+ 
  
