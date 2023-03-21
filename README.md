@@ -58,7 +58,7 @@ Used:
 * Dump your data as `.csv` file. 
 
 ## Data Analysis
-* Use tableau to analyze 
+* Use [tableau](put link here) to analyze 
 * 
 ### Data Exploration and Visualization
 Used Tableau to visualize my overall data.
