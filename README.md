@@ -25,22 +25,22 @@ Used:
 * 19963 rows 
 * columns:
 
-  - User, 
-	- Card,  
-	- Year,  
-	- Month, 
-	- Day, 
-	- Time,
-	- Amount, 
-	- Use chip,
-	- Merchant Name,
-	- Merchant city,
-  - Merchant State,
-	- Zip,
-	- MCC,
-	- Errors?,
-	- Is Fraud?.
-  
+- User, 
+- Card,  
+- Year,  
+- Month, 
+- Day, 
+- Time,
+- Amount, 
+- Use chip,
+- Merchant Name,
+- Merchant city,
+- Merchant State,
+- Zip,
+- MCC,
+- Errors?,
+- Is Fraud?.
+ 
 	### Data Wrangling and Cleaning
   
 - Overall Data description
