@@ -32,8 +32,8 @@ Used:
 | Year | Added to Date column | Date |
 | Month | Nothing to edit | Month |
 | Day | Added to Date column | Date |
-| Time | Binned to 4 categories and added to Time Period | Time & Time Period |
-| Amount | Binned to 3 categories | Amount & Amount Range |
+| Time | Binned to 4 categories and added to Time Period | Time & Time_Period |
+| Amount | Binned to 3 categories | Amount & Amount_Range |
 | Use chip | Nothing to edit | Use Chip |
 | Merchant name | Too many unique values. | None:Dropped |
 | Merchant City | Changing Merchant City to Merchant Type : Online or In-person | Merchant Type |
