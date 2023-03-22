@@ -69,7 +69,7 @@ Used Tableau to visualize my overall data.
 - Standard scaling for numericals : for Train and Test set
 - OneHotEncoding for categoricals : for Train and Test set
 - Balancing data : Oversampling our target values in our Train set. 
-- Model : LogisticRegression
+- Models : LogisticRegression & KNN neighbors
 - Compared accuracy 
 - Confusion Matrix
 
