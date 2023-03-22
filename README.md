@@ -59,7 +59,7 @@ Used:
 * Dump your data as `.csv` file. 
 
 ## Data Analysis
-* Use [tableau](put link here) to analyze 
+* Use [tableau](https://public.tableau.com/app/profile/omezzine.meysour/viz/Creditcardfraudanalysis_16794785656020/Timeandmonths?publish=yes) to analyze 
 * 
 ### Data Exploration and Visualization
 Used Tableau to visualize my overall data.
