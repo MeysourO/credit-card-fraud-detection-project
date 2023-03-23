@@ -44,7 +44,7 @@ Used:
 | Is Fraud? | Main target | Is Fraud? |
 
  
-	### Data Wrangling and Cleaning
+### Data Wrangling and Cleaning
   
 - Overall Data description
 - Deleting  columns with hight unique values: User,Merchant Name,Zip 
@@ -60,7 +60,8 @@ Used:
 
 ## Data Analysis
 * Use [tableau](https://public.tableau.com/app/profile/omezzine.meysour/viz/Creditcardfraudanalysis_16794785656020/Fraudsbyamount?publish=yes) to analyze 
-* 
+
+
 ### Data Exploration and Visualization
 Used Tableau to visualize my overall data.
 
